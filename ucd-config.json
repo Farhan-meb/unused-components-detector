@@ -1,0 +1,5 @@
+{
+    "srcPath": "src",
+    "ignore": ["src/tests", "src/stories", "**/*.test.*", "**/*.spec.*"],
+    "extensions": [".tsx", ".jsx", ".js", ".ts"]
+}

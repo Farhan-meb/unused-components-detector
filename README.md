@@ -11,7 +11,7 @@ npm install -g unused-components-detector
 ## Usage
 
 ```bash
-ucd
+npx unused-components-detector
 ```
 
 ### Options

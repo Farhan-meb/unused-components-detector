@@ -1,9 +1,6 @@
-src/
 tests/
 .github/
 *.log 
 node_modules/
 package-lock.json
 package.json
-/src/
-./src

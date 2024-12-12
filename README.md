@@ -56,9 +56,9 @@ Create a `ucd-config.json` in your project root:
 Scanning for unused components...
 
 Found 3 unused components:
-- src/components/UnusedButton.tsx
-- src/components/deprecated/OldNavbar.jsx
-- src/features/unused/UnusedForm.tsx
+- UnusedButton (src/components/UnusedButton.tsx)
+- OldNavbar (src/components/deprecated/OldNavbar.jsx)
+- UnusedForm (src/features/unused/UnusedForm.tsx)
 
 Scan completed in 0.45s
 ```
